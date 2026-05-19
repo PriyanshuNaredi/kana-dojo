@@ -600,10 +600,17 @@
   "character": "Saitama"
   },
   {
-  "japanese": "イエス！イエス！イエス！イエス！",
-  "romaji": "Iesu! Iesu! Iesu! Iesu!",
-  "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "DIO"
-}
+    "japanese": "イエス！イエス！イエス！イエス！",
+    "romaji": "Iesu! Iesu! Iesu! Iesu!",
+    "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity! (alt wording 14)",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  }
 ]
